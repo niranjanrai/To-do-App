@@ -30,4 +30,4 @@ todoList.addEventListener("click", (e) => {
     const liSpan = e.target.parentNode.previousElementSibling;
     liSpan.style.textDecoration = "line-through";
   }
-});
+// });
